@@ -1,0 +1,159 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    
+   background-color:  rgb(190, 179, 179);
+}
+
+.asde {
+    display: flex;
+}
+.aside {
+
+    height: 99.5vh;
+    width: 25vw;
+    background-color:rgb(216, 155, 43);
+}
+
+.hmeimg {
+    width: 25vw;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cnttxt {
+    text-align: center;
+    font-size: 8vw;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    position: relative;
+    left: 10%;
+    
+    width: 60vw;
+    margin-top: 10px;
+}
+
+.feel {
+    font-size: 5.5vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tnks {
+
+    font-size:4vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 10vw;
+    top: 2vw;
+
+
+
+}
+
+.contactinfo {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 2vw;
+    width: 70vw;
+}
+
+.socialmedia {
+    display: flex;
+    /* border: 1px solid black; */
+    width: 35vw;
+    align-items: center;
+
+}
+
+.mobile {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    /* border: 1px solid black; */
+    width: 35vw;
+
+}
+
+.iphone {
+    height: 10vw;
+}
+
+.laptop {
+    height: 10vw;
+}
+
+.social {
+    position: relative;
+    top: 5%;
+}
+
+.call {
+    position: relative;
+    top: 40%;
+}
+
+
+
+.homepagebtn {
+    border: none;
+    background-color: rgb(216, 155, 43);
+    font-weight: bolder;
+    font-weight: bolder;
+    position: absolute;
+    top: 30vw;
+    font-size: 2vw;
+    left: 3vw;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+    background-color: rgb(216, 212, 204);
+
+}
+.homepagebtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}
+
+.abtbtn {
+    border: none;
+
+    background-color: rgb(216, 212, 204);
+    font-weight: bolder;
+    position: absolute;
+    top: 37vw;
+    font-size: 2vw;
+    left: 3vw;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+}
+.abtbtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}
+.cvbtn{
+    border: none;
+
+    background-color: rgb(216, 212, 204);
+    font-weight: bolder;
+    position: absolute;
+    top: 44vw;
+    font-size: 2vw;
+    left: 3vw;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+
+}
+.cvbtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}

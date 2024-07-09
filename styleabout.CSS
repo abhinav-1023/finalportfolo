@@ -1,0 +1,126 @@
+*{   
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(190, 179, 179);
+}
+.aside{
+    display: flex;
+}
+
+.de{  
+   
+    height: 100vh;
+    width: 35vw;
+    background-color:rgb(216, 155, 43);
+
+}
+.hmeimg{
+    width: 25vw;
+    margin: 0%;
+    padding: 0%;
+    }
+
+   
+
+    .homepagebtn{
+        border: none;
+        
+        font-weight: bolder;
+        font-weight: bolder;
+        position: absolute;
+        top: 30vw;
+        font-size: 2vw;
+        left: 3vw;
+        height: 5vw;
+        width: 18vw;
+        border-radius: 50px;   
+        background-color:rgb(216, 212, 204);
+    
+    }
+    .homepagebtn:hover{
+        height: 5.1vw;
+        width: 18.1vw;
+        box-shadow: 1px 1px 1px;
+        cursor:pointer;
+    }
+    .CNTbtn:hover{
+        height: 5.1vw;
+        width: 18.1vw;
+        box-shadow: 1px 1px 1px;
+        cursor:pointer;
+    }
+    .CNTbtn{
+        border: none;
+        
+        background-color:rgb(216, 212, 204);
+        font-weight: bolder;
+        position: absolute;
+        top: 37vw;
+        font-size: 2vw;
+        left: 3vw;
+        height: 5vw;
+        width: 18vw;
+        border-radius: 50px;
+    }
+    .cvbtn:hover{
+        height: 5.1vw;
+        width: 18.1vw;
+        box-shadow: 1px 1px 1px;
+        cursor:pointer;
+    }
+    .cvbtn{
+        border: none;
+        
+        background-color:rgb(216, 212, 204);
+        font-weight: bolder;
+        position: absolute;
+        top: 44vw;
+        font-size: 2vw;
+        left: 3vw;
+        height: 5vw;
+        width: 18vw;
+        border-radius: 50px;
+    }
+    .abttxt{
+        text-align: center;
+        font-size: 8vw;
+        font-weight: 900;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 1px solid black;
+        position: relative;
+        left: 10%;
+        width: 60vw;
+        margin-top:10px ;
+    }
+    .abtheading{
+        font-size: 4vw;
+        
+    }
+    .abtme{
+        margin-top:10px ;
+        font-size: 2vw;
+    }
+    .learn{
+        display: flex;
+        justify-content: space-around;
+        font-size: 1.2vw;
+    }
+    .learnnow{
+        background: 10px solid black;
+        margin: 50px;
+    }
+    .learning{
+        background: 1px solid black;
+        margin: 50px;
+        margin-left: 100px; ;
+        width: 450px;
+    }
+    .topic{
+        font-size: 1.5vw;
+        font-weight: bold;
+    }
+    li{
+        font-size: 1.2vw;
+        font-weight: 700;
+    }
+

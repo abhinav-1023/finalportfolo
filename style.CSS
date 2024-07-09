@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.hme {
+    display: flex;
+}
+.intro {
+    padding-left:8vw;
+    padding-top: 7vh;
+    }
+.name{
+    font-size: 4vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+.me{
+    color: rgb(188, 188, 34);
+}
+.work{
+    font-size: 2vw;
+    font-weight: 900;
+    background-color: yellowgreen;
+}
+.hmeimg{
+    height: 99vh;
+    width: 50vw;
+    padding: 0%;
+    margin: 0%;
+}
+.litleintro{
+    padding-top: 3vb;
+    font-size: 1.8vw;
+    font-weight: 10;
+}
+.otherbtn{
+    padding-top: 20px;
+}
+.abtbtn{
+    background-color: rgb(216, 155, 43);
+    font-size: 2vw;
+    color: black;
+    font-weight: bolder;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+    border: none;
+}
+.abtbtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}
+.cntbtn{
+    background-color:rgb(216, 155, 43);
+    color: black;
+    font-size: 2vw;
+    font-weight: bolder;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+    border: none;
+}
+.cntbtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}
+.imgh{
+    width: 50vw;
+    width: 100%;
+}
+.cvtbtn{
+    background-color:rgb(216, 155, 43);
+    color: black;
+    font-size: 2vw;
+    font-weight: bolder;
+    height: 5vw;
+    width: 18vw;
+    border-radius: 50px;
+    border: none;
+    position: relative;
+    top: 2vw;
+}
+.cvtbtn:hover{
+    height: 5.1vw;
+    width: 18.1vw;
+    box-shadow: 1px 1px 1px;
+    cursor:pointer;
+}
